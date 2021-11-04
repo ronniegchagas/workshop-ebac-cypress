@@ -24,3 +24,13 @@ yarn cypress open
 ```
 
 - Remova as pastas de exemplo dentro de **cypress/integration**
+
+- Dentro de **cypress/integration** crie os arquivos de testes
+
+- Neste Workshop, será realizado a criação de testes a partir de uma aplicação chamada devFinances, localizada em https://devfinance-agilizei.netlify.app
+
+- Com o arquivo de testes criado, execute o comando `yarn cypress open` caso não esteje com o mesmo aberto e clique no arquivo criado que agora está listado.
+
+- Ele irá iniciar a execução do teste, e o mesmo é esperado que seja concluído sem erros.
+
+- É possível executar os testes também em segundo plano com o comando `yarn cypress run`, com um adicional que é a criação de um vídeo do teste rodando. O(s) vídeo(s) criado(s) fica(m) em **cypress/videos**
