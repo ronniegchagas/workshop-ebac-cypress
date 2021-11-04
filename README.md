@@ -8,6 +8,8 @@ Workshop apresentado no dia 3 e 4 de novembro de 2021, com participação do Sam
 
 - [Github Samuel Lucas](https://github.com/samlucax)
 
+- [Link do aula do Dia 1 - Introdução ao Cypress (03/11/21)](https://www.youtube.com/watch?v=3VEDqTH6vqU)
+
 - [Mapa Neural do Cypress](https://github.com/samlucax/cypress-essencial-mindmap)
 
   - Guia visual e direto ao ponto para quem deseja aprender, consultar ou explicar sobre o cypress
