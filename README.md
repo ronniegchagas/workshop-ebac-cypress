@@ -8,6 +8,12 @@ Workshop apresentado no dia 3 e 4 de novembro de 2021, com participação do Sam
 
 - [Mapa Neural do Cypress](https://github.com/samlucax/cypress-essencial-mindmap)
 
+  - Guia visual e direto ao ponto para quem deseja aprender, consultar ou explicar sobre o cypress
+
+- [Checklist de aprendizado do Cypress](https://github.com/samlucax/cypress-learning-checklist)
+
+  - Lista com comandos do Cypress organizados por ordem de prioridade. O critério adotado para essa priorização foi a frequência de uso destes comandos.
+
 ## Etapas do workshop
 
 - Inicie o projeto com os comandos abaixo para inicializar o package.json e adicionar a lib do cypress como devDependencies
