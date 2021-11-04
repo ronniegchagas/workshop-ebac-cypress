@@ -1,6 +1,8 @@
 # Workshop EBAC - Cypress
 
-Workshop apresentado no dia 3 e 4 de novembro de 2021, com participação do Samuel Lucas e
+Workshop apresentado no dia 3 e 4 de novembro de 2021, com participação do Samuel Lucas
+
+<img src="./gifs/devfinance.spec.js.gif" />
 
 ## Links
 
